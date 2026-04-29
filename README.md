@@ -53,7 +53,6 @@ This image shows the basic flow of each scheduler.
 ## Files
 
 - `test_algos.py`: main simulation and graph generator.
-- `scheduler_algorithms.puml`: PlantUML diagrams for the algorithms.
 - `scheduler_stress_report.png`: generated result graph.
 - `Scheduling_diagrams.drawio.png`: diagram image.
 
